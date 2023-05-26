@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Button{
+    display: flex;
+    float:right;
+}
+.card{
+    padding: 20px;
+}
+.tab1{
+    width: 120px;
+    margin-right: 5px;
+    margin-left: 10px;
+}
+lable{
+    padding: 10px 5px; 
+}
+.form-control{
+    margin-left:20px;
+    margin-right: 20px;
+}
+.text{
+    padding: 10px;
+    margin-top:5px ;
+    margin-bottom: 8px;
+    border-radius: 5px;
+}
+.button{
+  margin-bottom: 5%;
+  transform: translateX(100%);
+  background-color: #3f51b5;
+  padding: 6px;
+  color: white;
+  border: none;
+  font-weight: bold;
+  border-radius: 5px;
+
+}
+.modal-card{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    transform: translate(-50%, -50%);
+}
+
+/* .eshop{
+    font-family:;
+} */
